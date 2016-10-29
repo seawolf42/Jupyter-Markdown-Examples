@@ -139,6 +139,10 @@ You can insert HTML anywhere in your Markdown and it will be passed through as-i
 
 *Jupyter*'s engine allows you to embed some non-standard Markdown syntax.:
 
+### Inline code:
+
+This isn't really a *Markdown* thing, this is a *Jupyter* thing. Just put Python expressions in separate notebook blocks, between Markdown blocks. In this way you can alternate between text and running/live code.
+
 ### LaTeX expressions
 
 You can embed LaTeX equations both inline and as stand-alone text.
